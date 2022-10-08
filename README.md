@@ -1,4 +1,4 @@
-# **FiveM UI Template** <img src="https://img.shields.io/github/repo-size/itsGeeGeez/fivem-ui-vitejs-template" /> <img src="https://img.shields.io/github/stars/itsgeegeez/fivem-ui-vitejs-template" /> <img src="https://img.shields.io/github/forks/itsgeegeez/fivem-ui-vitejs-template"/>
+# **FiveM UI Template** <img src="https://img.shields.io/github/languages/code-size/itsgeegeez/fivem-ui-vitejs-template" /> <img src="https://img.shields.io/github/stars/itsgeegeez/fivem-ui-vitejs-template" /> <img src="https://img.shields.io/github/forks/itsgeegeez/fivem-ui-vitejs-template"/>
 
 An easy-to-use template for developers to build their own UIs for FiveM or RedM.
 
