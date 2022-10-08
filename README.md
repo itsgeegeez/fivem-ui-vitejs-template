@@ -31,7 +31,8 @@ An easy-to-use template for developers to build their own UIs for FiveM or RedM.
     - `pnpm dev` - Run the project in development mode on the browser (frontend only)
 
 # **Donate**
-##### Support this project by ⭐️ starring and sharing it. [Follow me](https://github.com/itsGeeGeez) to get the latest updates from me! Please consider donating for more content like this!
+##### Support this project by ⭐️ starring and sharing it. [Follow me](https://github.com/itsGeeGeez) to get the latest updates from me! Please consider donating for me to maintain this project! ❤️
+
 <a href="https://www.youtube.com/channel/UCZzDK-7I6nFLMG3cMEHoHyA"><img src="https://img.shields.io/badge/-Youtube-FF0000?logo=Youtube" /></a>
 <img src="https://img.shields.io/badge/Discord-zeeGeeG%232776-grey?labelColor=5865F2&logo=youtube" />
 <a href="https://github.com/itsGeeGeez">
