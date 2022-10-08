@@ -17,7 +17,6 @@ An easy-to-use template for developers to build their own UIs for FiveM or RedM.
 </a>
 
 
-#
 
 ## 🚀 **Features:**
 
