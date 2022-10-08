@@ -2,8 +2,8 @@
 
 > An easy-to-use template for developers to build their own UIs for FiveM or RedM.
 
-## 🚀 **Features:**
-
+## 🚀 **Features**
+---
 - **Typescript support**
   - Write your code in typescript and get all the benefits of typescript
   - Declare all your types in the types folder for ease of debugging and import them anywhere with the alias `@types`
@@ -30,9 +30,11 @@
     - `pnpm watch` - Watch the project for changes and build on change
     - `pnpm dev` - Run the project in development mode on the browser (frontend only)
 
-# 🚦 Quick Setup
+## 🚦 **Quick Setup**
+---
 Just rename this folder to whatever you want your resource to be called and start in your FiveM/RedM server!
-# **Donate**
+## ❤️ **Support**
+---
 ##### Support this project by ⭐️ starring and sharing it. [Follow me](https://github.com/itsGeeGeez) to get the latest updates from me! Please consider donating for me to maintain this project! ❤️
 
 <a href="https://www.youtube.com/channel/UCZzDK-7I6nFLMG3cMEHoHyA"><img src="https://img.shields.io/badge/-Youtube-FF0000?logo=Youtube" /></a>
