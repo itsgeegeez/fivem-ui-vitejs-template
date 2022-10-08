@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "types": ["@types/node, @citizenfx/server"],
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "paths": {
+      "@types": ["../../types/index.d.ts"]
+    }
+  },
+  "include": ["**/*.ts", "../../types/*.d.ts", "../utils/**/*"]
+}
