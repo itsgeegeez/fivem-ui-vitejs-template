@@ -12,7 +12,7 @@ An easy-to-use template for developers to build their own UIs for FiveM or RedM.
 <a href="https://twitter.com/CodeShipDotCom">
 <img src="https://img.shields.io/badge/Twitter-white?logo=Twitter" />
 </a>
-<a href="paypal.me/itsgeegeez">
+<a href="https://paypal.me/itsgeegeez">
 <img src="https://img.shields.io/badge/Donate-00457C?logo=Paypal" />
 </a>
 
