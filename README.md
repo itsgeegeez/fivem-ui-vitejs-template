@@ -1,6 +1,6 @@
 # **FiveM UI Template** <img src="https://img.shields.io/github/languages/code-size/itsgeegeez/fivem-ui-vitejs-template" /> <img src="https://img.shields.io/github/stars/itsgeegeez/fivem-ui-vitejs-template" /> <img src="https://img.shields.io/github/forks/itsgeegeez/fivem-ui-vitejs-template"/>
 
-An easy-to-use template for developers to build their own UIs for FiveM or RedM.
+> An easy-to-use template for developers to build their own UIs for FiveM or RedM.
 
 ## 🚀 **Features:**
 
@@ -30,6 +30,8 @@ An easy-to-use template for developers to build their own UIs for FiveM or RedM.
     - `pnpm watch` - Watch the project for changes and build on change
     - `pnpm dev` - Run the project in development mode on the browser (frontend only)
 
+# 🚦 Quick Setup
+Just rename this folder to whatever you want your resource to be called and start in your FiveM/RedM server!
 # **Donate**
 ##### Support this project by ⭐️ starring and sharing it. [Follow me](https://github.com/itsGeeGeez) to get the latest updates from me! Please consider donating for me to maintain this project! ❤️
 
