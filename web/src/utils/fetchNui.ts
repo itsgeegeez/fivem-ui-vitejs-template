@@ -17,7 +17,7 @@ export async function fetchNui<ReturnData = any, Params = any>(eventName: string
 
   if (!(window as any).GetParentResourceName() && mock) return mock;
 
-  const resourceName = (window as any).GetParentResourceName;
+  const resourceName = (window as any).GetParentResourceName();
 
   const resp = await fetch(`https://${resourceName}/${eventName}`, options);
 
